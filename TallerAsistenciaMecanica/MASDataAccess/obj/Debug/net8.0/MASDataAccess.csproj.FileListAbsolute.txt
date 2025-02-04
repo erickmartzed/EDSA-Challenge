@@ -1,0 +1,14 @@
+C:\Users\erick\source\repos\TallerAsistenciaMecanica\MASDataAccess\bin\Debug\net8.0\MASDataAccess.deps.json
+C:\Users\erick\source\repos\TallerAsistenciaMecanica\MASDataAccess\bin\Debug\net8.0\MASDataAccess.runtimeconfig.json
+C:\Users\erick\source\repos\TallerAsistenciaMecanica\MASDataAccess\bin\Debug\net8.0\MASDataAccess.dll
+C:\Users\erick\source\repos\TallerAsistenciaMecanica\MASDataAccess\bin\Debug\net8.0\MASDataAccess.pdb
+C:\Users\erick\source\repos\TallerAsistenciaMecanica\MASDataAccess\obj\Debug\net8.0\MASDataAccess.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\TallerAsistenciaMecanica\MASDataAccess\obj\Debug\net8.0\MASDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\TallerAsistenciaMecanica\MASDataAccess\obj\Debug\net8.0\MASDataAccess.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\TallerAsistenciaMecanica\MASDataAccess\obj\Debug\net8.0\MASDataAccess.AssemblyInfo.cs
+C:\Users\erick\source\repos\TallerAsistenciaMecanica\MASDataAccess\obj\Debug\net8.0\MASDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\TallerAsistenciaMecanica\MASDataAccess\obj\Debug\net8.0\MASDataAccess.dll
+C:\Users\erick\source\repos\TallerAsistenciaMecanica\MASDataAccess\obj\Debug\net8.0\refint\MASDataAccess.dll
+C:\Users\erick\source\repos\TallerAsistenciaMecanica\MASDataAccess\obj\Debug\net8.0\MASDataAccess.pdb
+C:\Users\erick\source\repos\TallerAsistenciaMecanica\MASDataAccess\obj\Debug\net8.0\MASDataAccess.genruntimeconfig.cache
+C:\Users\erick\source\repos\TallerAsistenciaMecanica\MASDataAccess\obj\Debug\net8.0\ref\MASDataAccess.dll

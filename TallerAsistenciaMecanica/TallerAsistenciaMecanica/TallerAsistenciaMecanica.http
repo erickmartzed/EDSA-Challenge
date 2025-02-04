@@ -1,0 +1,6 @@
+@TallerAsistenciaMecanica_HostAddress = http://localhost:5129
+
+GET {{TallerAsistenciaMecanica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

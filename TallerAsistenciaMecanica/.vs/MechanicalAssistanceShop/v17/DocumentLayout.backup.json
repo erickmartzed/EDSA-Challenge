@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD39155F-A609-42B6-848C-564EDA89EFC0}|TallerAsistenciaMecanica\\MechanicalAssistanceShop.csproj|c:\\users\\erick\\source\\repos\\tallerasistenciamecanica\\tallerasistenciamecanica\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD39155F-A609-42B6-848C-564EDA89EFC0}|TallerAsistenciaMecanica\\MechanicalAssistanceShop.csproj|solutionrelative:tallerasistenciamecanica\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD39155F-A609-42B6-848C-564EDA89EFC0}|TallerAsistenciaMecanica\\MechanicalAssistanceShop.csproj|c:\\users\\erick\\source\\repos\\tallerasistenciamecanica\\tallerasistenciamecanica\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD39155F-A609-42B6-848C-564EDA89EFC0}|TallerAsistenciaMecanica\\MechanicalAssistanceShop.csproj|solutionrelative:tallerasistenciamecanica\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD39155F-A609-42B6-848C-564EDA89EFC0}|TallerAsistenciaMecanica\\MechanicalAssistanceShop.csproj|c:\\users\\erick\\source\\repos\\tallerasistenciamecanica\\tallerasistenciamecanica\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD39155F-A609-42B6-848C-564EDA89EFC0}|TallerAsistenciaMecanica\\MechanicalAssistanceShop.csproj|solutionrelative:tallerasistenciamecanica\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC92FDA-19E5-4AA9-A1D2-33289AC8C289}|MASService\\MASBusiness.csproj|c:\\users\\erick\\source\\repos\\tallerasistenciamecanica\\masservice\\interfaces\\irenderedserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC92FDA-19E5-4AA9-A1D2-33289AC8C289}|MASService\\MASBusiness.csproj|solutionrelative:masservice\\interfaces\\irenderedserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC92FDA-19E5-4AA9-A1D2-33289AC8C289}|MASService\\MASBusiness.csproj|c:\\users\\erick\\source\\repos\\tallerasistenciamecanica\\masservice\\services\\renderedserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC92FDA-19E5-4AA9-A1D2-33289AC8C289}|MASService\\MASBusiness.csproj|solutionrelative:masservice\\services\\renderedserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD39155F-A609-42B6-848C-564EDA89EFC0}|TallerAsistenciaMecanica\\MechanicalAssistanceShop.csproj|c:\\users\\erick\\source\\repos\\tallerasistenciamecanica\\tallerasistenciamecanica\\controllers\\renderedservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD39155F-A609-42B6-848C-564EDA89EFC0}|TallerAsistenciaMecanica\\MechanicalAssistanceShop.csproj|solutionrelative:tallerasistenciamecanica\\controllers\\renderedservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC92FDA-19E5-4AA9-A1D2-33289AC8C289}|MASService\\MASBusiness.csproj|c:\\users\\erick\\source\\repos\\tallerasistenciamecanica\\masservice\\services\\servicebyrendservservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC92FDA-19E5-4AA9-A1D2-33289AC8C289}|MASService\\MASBusiness.csproj|solutionrelative:masservice\\services\\servicebyrendservservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD39155F-A609-42B6-848C-564EDA89EFC0}|TallerAsistenciaMecanica\\MechanicalAssistanceShop.csproj|c:\\users\\erick\\source\\repos\\tallerasistenciamecanica\\tallerasistenciamecanica\\controllers\\servicebyrendservcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD39155F-A609-42B6-848C-564EDA89EFC0}|TallerAsistenciaMecanica\\MechanicalAssistanceShop.csproj|solutionrelative:tallerasistenciamecanica\\controllers\\servicebyrendservcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC92FDA-19E5-4AA9-A1D2-33289AC8C289}|MASService\\MASBusiness.csproj|c:\\users\\erick\\source\\repos\\tallerasistenciamecanica\\masservice\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC92FDA-19E5-4AA9-A1D2-33289AC8C289}|MASService\\MASBusiness.csproj|solutionrelative:masservice\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC92FDA-19E5-4AA9-A1D2-33289AC8C289}|MASService\\MASBusiness.csproj|c:\\users\\erick\\source\\repos\\tallerasistenciamecanica\\masservice\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC92FDA-19E5-4AA9-A1D2-33289AC8C289}|MASService\\MASBusiness.csproj|solutionrelative:masservice\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD39155F-A609-42B6-848C-564EDA89EFC0}|TallerAsistenciaMecanica\\MechanicalAssistanceShop.csproj|c:\\users\\erick\\source\\repos\\tallerasistenciamecanica\\tallerasistenciamecanica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD39155F-A609-42B6-848C-564EDA89EFC0}|TallerAsistenciaMecanica\\MechanicalAssistanceShop.csproj|solutionrelative:tallerasistenciamecanica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC92FDA-19E5-4AA9-A1D2-33289AC8C289}|MASService\\MASBusiness.csproj|c:\\users\\erick\\source\\repos\\tallerasistenciamecanica\\masservice\\dtos\\servicebyrendservdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC92FDA-19E5-4AA9-A1D2-33289AC8C289}|MASService\\MASBusiness.csproj|solutionrelative:masservice\\dtos\\servicebyrendservdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceByRendServService.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\MASService\\Services\\ServiceByRendServService.cs",
+              "RelativeDocumentMoniker": "MASService\\Services\\ServiceByRendServService.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\MASService\\Services\\ServiceByRendServService.cs",
+              "RelativeToolTip": "MASService\\Services\\ServiceByRendServService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwDEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:59:17.302Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\TallerAsistenciaMecanica\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "TallerAsistenciaMecanica\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\TallerAsistenciaMecanica\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "TallerAsistenciaMecanica\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:48:26.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRenderedServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\MASService\\Interfaces\\IRenderedServiceService.cs",
+              "RelativeDocumentMoniker": "MASService\\Interfaces\\IRenderedServiceService.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\MASService\\Interfaces\\IRenderedServiceService.cs",
+              "RelativeToolTip": "MASService\\Interfaces\\IRenderedServiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:42:58.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RenderedServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\MASService\\Services\\RenderedServiceService.cs",
+              "RelativeDocumentMoniker": "MASService\\Services\\RenderedServiceService.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\MASService\\Services\\RenderedServiceService.cs",
+              "RelativeToolTip": "MASService\\Services\\RenderedServiceService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:34:23.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RenderedServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\TallerAsistenciaMecanica\\Controllers\\RenderedServicesController.cs",
+              "RelativeDocumentMoniker": "TallerAsistenciaMecanica\\Controllers\\RenderedServicesController.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\TallerAsistenciaMecanica\\Controllers\\RenderedServicesController.cs",
+              "RelativeToolTip": "TallerAsistenciaMecanica\\Controllers\\RenderedServicesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAnwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:13:08.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\TallerAsistenciaMecanica\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "TallerAsistenciaMecanica\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\TallerAsistenciaMecanica\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "TallerAsistenciaMecanica\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:03:48.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\MASService\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "MASService\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\MASService\\Services\\VehicleService.cs",
+              "RelativeToolTip": "MASService\\Services\\VehicleService.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAA6wOEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:33:31.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\TallerAsistenciaMecanica\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "TallerAsistenciaMecanica\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\TallerAsistenciaMecanica\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "TallerAsistenciaMecanica\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:25:59.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\MASService\\DTOs\\VehicleDto.cs",
+              "RelativeDocumentMoniker": "MASService\\DTOs\\VehicleDto.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\MASService\\DTOs\\VehicleDto.cs",
+              "RelativeToolTip": "MASService\\DTOs\\VehicleDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAywBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:14:32.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\TallerAsistenciaMecanica\\Program.cs",
+              "RelativeDocumentMoniker": "TallerAsistenciaMecanica\\Program.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\TallerAsistenciaMecanica\\Program.cs",
+              "RelativeToolTip": "TallerAsistenciaMecanica\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:06:06.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceByRendServDto.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\MASService\\DTOs\\ServiceByRendServDto.cs",
+              "RelativeDocumentMoniker": "MASService\\DTOs\\ServiceByRendServDto.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\MASService\\DTOs\\ServiceByRendServDto.cs",
+              "RelativeToolTip": "MASService\\DTOs\\ServiceByRendServDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:04:24.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceByRendServController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\TallerAsistenciaMecanica\\Controllers\\ServiceByRendServController.cs",
+              "RelativeDocumentMoniker": "TallerAsistenciaMecanica\\Controllers\\ServiceByRendServController.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\TallerAsistenciaMecanica\\TallerAsistenciaMecanica\\Controllers\\ServiceByRendServController.cs",
+              "RelativeToolTip": "TallerAsistenciaMecanica\\Controllers\\ServiceByRendServController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAewCMAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:03:55.58Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

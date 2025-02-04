@@ -1,0 +1,15 @@
+C:\Users\erick\source\repos\MASConsoleApp\MASConsoleApp\bin\Debug\net8.0\MASConsoleApp.exe
+C:\Users\erick\source\repos\MASConsoleApp\MASConsoleApp\bin\Debug\net8.0\MASConsoleApp.deps.json
+C:\Users\erick\source\repos\MASConsoleApp\MASConsoleApp\bin\Debug\net8.0\MASConsoleApp.runtimeconfig.json
+C:\Users\erick\source\repos\MASConsoleApp\MASConsoleApp\bin\Debug\net8.0\MASConsoleApp.dll
+C:\Users\erick\source\repos\MASConsoleApp\MASConsoleApp\bin\Debug\net8.0\MASConsoleApp.pdb
+C:\Users\erick\source\repos\MASConsoleApp\MASConsoleApp\obj\Debug\net8.0\MASConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\MASConsoleApp\MASConsoleApp\obj\Debug\net8.0\MASConsoleApp.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\MASConsoleApp\MASConsoleApp\obj\Debug\net8.0\MASConsoleApp.AssemblyInfo.cs
+C:\Users\erick\source\repos\MASConsoleApp\MASConsoleApp\obj\Debug\net8.0\MASConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\MASConsoleApp\MASConsoleApp\obj\Debug\net8.0\MASConsoleApp.dll
+C:\Users\erick\source\repos\MASConsoleApp\MASConsoleApp\obj\Debug\net8.0\refint\MASConsoleApp.dll
+C:\Users\erick\source\repos\MASConsoleApp\MASConsoleApp\obj\Debug\net8.0\MASConsoleApp.pdb
+C:\Users\erick\source\repos\MASConsoleApp\MASConsoleApp\obj\Debug\net8.0\MASConsoleApp.genruntimeconfig.cache
+C:\Users\erick\source\repos\MASConsoleApp\MASConsoleApp\obj\Debug\net8.0\ref\MASConsoleApp.dll
+C:\Users\erick\source\repos\MASConsoleApp\MASConsoleApp\bin\Debug\net8.0\appsettings.json
